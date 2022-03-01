@@ -1,5 +1,5 @@
 {
-  "name": "martinnpmexample",
+  "name": "martin-npm-example",
   "version": "1.0.0",
   "description": "This is an example of a custom package",
   "main": "index.js",
