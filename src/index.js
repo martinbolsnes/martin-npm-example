@@ -18,6 +18,4 @@ const words = [
   'blew',
 ];
 
-console.warn('MartinNpmExample >>>', MartinNpmExample(words));
-
 export default MartinNpmExample;
