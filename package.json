@@ -1,0 +1,16 @@
+{
+  "name": "martinnpmexample",
+  "version": "1.0.0",
+  "description": "This is an example of a custom package",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run test"
+  },
+  "author": "Martin Bolsønes",
+  "license": "ISC",
+  "devDependencies": {
+    "@babel/cli": "^7.17.6",
+    "@babel/core": "^7.17.5",
+    "@babel/preset-env": "^7.16.11"
+  }
+}
